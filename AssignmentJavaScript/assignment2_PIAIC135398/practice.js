@@ -1,0 +1,12 @@
+var arr = ["asd", "name", "asdasda" , "jhan"];
+document.write("<h1>" + arr + "</h1>");
+arr.push("new NAme");
+document.write("<h1>" + arr + "</h1>");
+arr.push("another name");
+document.write("<h1>" + arr + "</h1>");
+arr.pop();
+document.write("<h1>" + arr + "</h1>");
+arr.shift();
+document.write("<h1>" + arr + "</h1>");
+arr.unshift("This is the Unshift function");
+document.write("<h1>" + arr + "</h1>");
