@@ -1,1 +1,0 @@
-document.write('Yayy, I can write HTML content using JavaScript');

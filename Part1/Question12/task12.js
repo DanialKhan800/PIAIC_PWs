@@ -1,1 +1,0 @@
-document.write("<h2>" + "Total Currency is PKR= "+ (10*155+ 25*41) + "</h2>");
